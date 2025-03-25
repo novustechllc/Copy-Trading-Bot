@@ -94,8 +94,3 @@ If you find this project useful, consider supporting it in one of these ways:
 - Submit pull requests
 - Share the project with others
 
-#### Donations
-
-Donations are welcome at the following addresses (updated Mar 2025):  
-BTC: ab..z  
-ETH / ERC20 tokens in general: 0x00..z
